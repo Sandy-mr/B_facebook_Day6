@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    padding: 5px 10px;
+    background: #3D56A1;
+    color: #fff;
+     font-size: 100px;
+    border-style: none;
+    margin-right: 5px;
+}
+
+b {
+    background: #fff;
+    color: #3D56A1;
+    padding: 0px 15px;
+}
